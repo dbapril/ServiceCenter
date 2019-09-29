@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "PT Sans Caption";
+  font-weight: normal;
+  src: url(../fonts/PTSansCaption/PTSansCaption-Regular.eot) format("embedded-opentype"), url(../fonts/PTSansCaption/PTSansCaption-Regular.woff) format("woff"), url(../fonts/PTSansCaption-Regular.ttf) format("truetype"), url(../fonts/PTSansCaption/PTSansCaption-Regular.svg) format("svg");
+}
+
+@font-face {
+  font-family: "PT Sans Caption";
+  font-weight: bold;
+  src: url(../fonts/PTSansCaption/PTSansCaption-Bold.eot) format("embedded-opentype"), url(../fonts/PTSansCaption/PTSansCaption-Bold.woff) format("woff"), url(../fonts/PTSansCaption-Regular.ttf) format("truetype"), url(../fonts/PTSansCaption/PTSansCaption-Bold.svg) format("svg");
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  font-weight: normal;
+  src: url(../fonts/ProximaNova/ProximaNova-Regular.eot) format("embedded-opentype"), url(../fonts/ProximaNova/ProximaNova-Regular.woff) format("woff"), url(../fonts/ProximaNova/ProximaNova-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  font-weight: bold;
+  src: url(../fonts/ProximaNova/ProximaNova-Bold.eot) format("embedded-opentype"), url(../fonts/ProximaNova/ProximaNova-Bold.woff) format("woff"), url(../fonts/ProximaNova/ProximaNova-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFProText";
+  font-weight: normal;
+  src: url(../fonts/SFProText/SF-Pro-Text-Regular.eot) format("embedded-opentype"), url(../fonts/SFProText/SF-Pro-Text-Regular.woff) format("woff"), url(../fonts/SFProText/SF-Pro-Text-Regular.ttf) format("truetype"), url(../fonts/SFProText/SF-Pro-Text-Regular.svg) format("svg");
+}
+/*# sourceMappingURL=fonts.css.map */

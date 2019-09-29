@@ -1,0 +1,36 @@
+@mixin main-font-normal {
+    font-family: "PT Sans Caption", sans-serif; 
+    font-weight: normal;
+}
+
+@mixin main-font-bold {
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: bold;
+}
+
+@mixin logo-font {
+    font-family: "ProximaNova", sans-serif;
+    font-weight: bold;
+}
+
+@mixin discount-font {
+    font-family: "ProximaNova", sans-serif;
+    font-weight: normal;
+}
+
+@mixin stock-font-normal {
+    font-family: "SFProText";
+    font-weight: normal;
+}
+
+@mixin copyright-block-font {
+    font-family: "SFProText";
+    font-weight: bold;
+}
+
+@mixin centred-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
