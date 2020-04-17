@@ -1,2 +1,2 @@
 # ServiceCenter
-Desctop page on SCSS
+Desktop page on SCSS
