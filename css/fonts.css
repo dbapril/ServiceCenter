@@ -27,4 +27,10 @@
   font-weight: normal;
   src: url(../fonts/SFProText/SF-Pro-Text-Regular.eot) format("embedded-opentype"), url(../fonts/SFProText/SF-Pro-Text-Regular.woff) format("woff"), url(../fonts/SFProText/SF-Pro-Text-Regular.ttf) format("truetype"), url(../fonts/SFProText/SF-Pro-Text-Regular.svg) format("svg");
 }
+
+@font-face {
+  font-family: "SFProText";
+  font-weight: bold;
+  src: url(../fonts/SFProText/SF-Pro-Text-Bold.eot) format("embedded-opentype"), url(../fonts/SFProText/SF-Pro-Text-Bold.woff) format("woff"), url(../fonts/SFProText/SF-Pro-Text-Bold.ttf) format("truetype"), url(../fonts/SFProText/SF-Pro-Text-Bold.svg) format("svg");
+}
 /*# sourceMappingURL=fonts.css.map */

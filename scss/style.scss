@@ -611,6 +611,7 @@ body {
 
   .model-name {
     margin: 0 0 8px 0;
+    text-align: center;
     @include main-font-bold;
     font-size: 18px;
   }
@@ -696,6 +697,10 @@ body {
       width: 138px;
     }
   }
+}
+
+.model-description {
+  height: 40%;
 }
 
 .what-repair {
@@ -1480,3 +1485,5 @@ body {
     }
   }
 }
+
+@import "adaptive";
